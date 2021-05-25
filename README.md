@@ -4,7 +4,8 @@
 - 📫 How to reach me: srishtiverma1905@gmail.com
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Srishti1905&show_icons=true&theme=radical" />
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Srishti1905&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srishti1905)](https://github.com/Srishti1905/github-readme-stats)
+
 
 <!---
 Srishti1905/Srishti1905 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
