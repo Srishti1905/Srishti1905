@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Srishti.
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning React.
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently studying Machine Learning.
 - 📫 How to reach me: srishtiverma1905@gmail.com
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Srishti1905&show_icons=true&theme=radical" />
